@@ -1,0 +1,10 @@
+package com.got.ddz.style;
+
+/**
+ * Õı’®°£
+ * @author zzzwu
+ *
+ */
+public class Kinds extends Four {
+
+}
